@@ -1,4 +1,3 @@
-from sre_constants import SUCCESS
 import cv2
 import numpy as np
 import time
